@@ -4,16 +4,6 @@
 
 ---
 
-## 👥 Team
-
-| Name | NIM |
-|------|-----|
-| Muhammad Yudha A.R | 2355301149 |
-| Teguh Al Azizul | 2355301197 |
-| Tifani | 2355301201 |
-
-**Lecturer:** Mutia Sari Zulvi, S.S.T., M.M.S.I  
-**Lab Instructor:** Muhammad Anwar, S.Tr.Kom  
 **Program:** D4 Teknik Informatika — Politeknik Caltex Riau (TA 2024/2025)
 
 ---
